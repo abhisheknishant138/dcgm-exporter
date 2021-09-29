@@ -49,4 +49,3 @@ jobs:
         tags: |
           abhishek138/dcgm:${{ steps.prepare.outputs.tag_name }}
           abhishek138/dcgm:latest  
-    
